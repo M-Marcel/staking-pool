@@ -33,11 +33,11 @@ This project contains a Solidity smart contract `StakingPool.sol` that allows us
     // package.json (example devDependencies)
     {
       "devDependencies": {
-        "@nomicfoundation/hardhat-toolbox": "^5.0.0", // Or specific versions
+        "@nomicfoundation/hardhat-toolbox": "^5.0.0", 
         "hardhat": "^2.22.0",
         "@openzeppelin/contracts": "^5.0.2",
         "dotenv": "^16.4.5",
-        "chai": "^4.3.10", // Often comes with hardhat-toolbox
+        "chai": "^4.3.10", 
         "@types/chai": "^4.3.12",
         "@types/mocha": "^10.0.6",
         "ts-node": "^10.9.2",
